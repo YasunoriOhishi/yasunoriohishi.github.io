@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crossmodal | Yasunori Ohishi</title>
+    <link>https://yasunorio.github.io/category/crossmodal/</link>
+      <atom:link href="https://yasunorio.github.io/category/crossmodal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Crossmodal</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Yasunori Ohishi</copyright><lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yasunorio.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Crossmodal</title>
+      <link>https://yasunorio.github.io/category/crossmodal/</link>
+    </image>
+    
+    <item>
+      <title>Our dataset publicly available</title>
+      <link>https://yasunorio.github.io/post/placesjapaneseaudiocaptions/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://yasunorio.github.io/post/placesjapaneseaudiocaptions/</guid>
+      <description>&lt;p&gt;We are excited to announce that our dataset, The Places audio caption (Japanese) 100K corpus, is now available.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zenodo.org/record/5563425#.YZZKy2DP0UE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://zenodo.org/record/5563425#.YZZKy2DP0UE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This speech corpus was collected to investigate the learning of spoken language (words, sub-word units, higher-level semantics, etc.) from visually-grounded speech. For a description of the corpus, see:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Yasunori Ohishi, Akisato Kimura, Takahito Kawanishi, Kunio Kashino, David Harwath, and James Glass,
+&amp;ldquo;Trilingual Semantic Embeddings of Visually Grounded Speech with Self-attention Mechanisms,&amp;rdquo; in Proc. ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020, pp. 4352–4356.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The corpus only includes audio recordings, and not the associated images. You will need to separately download the Places image dataset &lt;a href=&#34;http://places.csail.mit.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The data is distributed under &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/legalcode&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the Creative Commons Attribution-ShareAlike (CC BY-SA) license&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you use this data in your own publications, please cite the above paper.
+This is a collaborative work with &lt;a href=&#34;https://www.csail.mit.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT CSAIL&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

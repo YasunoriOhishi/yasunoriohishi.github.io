@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Yasunori Ohishi</title>
+    <link>https://yasunorio.github.io/publication-type/4/</link>
+      <atom:link href="https://yasunorio.github.io/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Yasunori Ohishi</copyright><lastBuildDate>Thu, 09 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yasunorio.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>4</title>
+      <link>https://yasunorio.github.io/publication-type/4/</link>
+    </image>
+    
+    <item>
+      <title>分散カメラ・分散マイクを利用したイベント検出のためのSelf-Attentionに基づくマルチセンサ統合</title>
+      <link>https://yasunorio.github.io/publication/2021c/</link>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://yasunorio.github.io/publication/2021c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>分散マイク・分散カメラの空間位置情報を活用したマルチモーダルシーン分類</title>
+      <link>https://yasunorio.github.io/publication/2021d/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://yasunorio.github.io/publication/2021d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>対象調波畳み込み</title>
+      <link>https://yasunorio.github.io/publication/2021e/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://yasunorio.github.io/publication/2021e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>音響説明文生成のためのキーワード推定サブタスクの効果</title>
+      <link>https://yasunorio.github.io/publication/2021f/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://yasunorio.github.io/publication/2021f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>弱ラベルで示される特定の共起関係に基づいたクロスモーダル音検索</title>
+      <link>https://yasunorio.github.io/publication/2020i/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://yasunorio.github.io/publication/2020i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>調波畳み込みの高速化</title>
+      <link>https://yasunorio.github.io/publication/2020j/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://yasunorio.github.io/publication/2020j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>非定常音を含む単変量時系列に対する動的モード分解を用いた特徴量抽出及び可視化の検討</title>
+      <link>https://yasunorio.github.io/publication/2020k/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://yasunorio.github.io/publication/2020k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The NTT DCASE2020 Challenge Task 6 System: Automated audio captioning with keywords and sentence length estimation</title>
+      <link>https://yasunorio.github.io/publication/2020f/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://yasunorio.github.io/publication/2020f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>環境音とラベル情報のデュアルエンコーダに基づくスペクトログラムマスクの生成</title>
+      <link>https://yasunorio.github.io/publication/2020l/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://yasunorio.github.io/publication/2020l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>環境音分析の研究を促進させる競争型ワークショップ</title>
+      <link>https://yasunorio.github.io/publication/2019b/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://yasunorio.github.io/publication/2019b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>画像を説明する多言語音声データを利用したクロスモーダル探索</title>
+      <link>https://yasunorio.github.io/publication/2019a/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://yasunorio.github.io/publication/2019a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ビブリオ・トーク -私のオススメ-：世界の不思議な音　奇妙な音の謎を科学で解き明かす</title>
+      <link>https://yasunorio.github.io/publication/2019c/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yasunorio.github.io/publication/2019c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Invited] あらゆる音の検出・識別を目指して --音響イベント検出研究の現在と未来--</title>
+      <link>https://yasunorio.github.io/publication/2014/</link>
+      <pubDate>Fri, 05 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://yasunorio.github.io/publication/2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

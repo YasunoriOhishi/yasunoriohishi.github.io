@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Yasunori Ohishi</title>
+    <link>https://yasunorio.github.io/publication-type/1/</link>
+      <atom:link href="https://yasunorio.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Yasunori Ohishi</copyright><lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yasunorio.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://yasunorio.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>ToyADMOS2: Another dataset of minauture-machine operating sounds for anomalous sound detection under domain shift conditions</title>
+      <link>https://yasunorio.github.io/publication/2021b/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://yasunorio.github.io/publication/2021b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BYOL for Audio: Self-Supervised Learning for General-Purpose Audio Representation</title>
+      <link>https://yasunorio.github.io/publication/2021a/</link>
+      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://yasunorio.github.io/publication/2021a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised co-segmentation for athlete movements and live commentaries using crossmodal temporal proximity</title>
+      <link>https://yasunorio.github.io/publication/2020g/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://yasunorio.github.io/publication/2020g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of word-frequency based pre- and post- processings for audio captioning</title>
+      <link>https://yasunorio.github.io/publication/2020e/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://yasunorio.github.io/publication/2020e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pair expansion for learning multilingual semantic embeddings using disjoint visually-grounded speech audio datasets</title>
+      <link>https://yasunorio.github.io/publication/2020d/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://yasunorio.github.io/publication/2020d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crossmodal sound retrieval based on specific target co-occurrence denoted with weak labels</title>
+      <link>https://yasunorio.github.io/publication/2020c/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://yasunorio.github.io/publication/2020c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harmonic lowering for accelerating harmonic convolution for audio signals</title>
+      <link>https://yasunorio.github.io/publication/2020b/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://yasunorio.github.io/publication/2020b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trilingual semantic embeddings of visually grounded speech with self-attention mechanisms</title>
+      <link>https://yasunorio.github.io/publication/2020a/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://yasunorio.github.io/publication/2020a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

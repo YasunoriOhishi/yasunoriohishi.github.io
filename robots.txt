@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://yasunorio.github.io/sitemap.xml

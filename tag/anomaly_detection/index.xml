@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anomaly_detection | Yasunori Ohishi</title>
+    <link>https://yasunorio.github.io/tag/anomaly_detection/</link>
+      <atom:link href="https://yasunorio.github.io/tag/anomaly_detection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anomaly_detection</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Yasunori Ohishi</copyright><lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yasunorio.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Anomaly_detection</title>
+      <link>https://yasunorio.github.io/tag/anomaly_detection/</link>
+    </image>
+    
+    <item>
+      <title>A paper presented in DCASE Workshop 2021</title>
+      <link>https://yasunorio.github.io/post/toyadmos2/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://yasunorio.github.io/post/toyadmos2/</guid>
+      <description>&lt;p&gt;Please check out our DCASE2021 paper &amp;quot;ToyADMOS2: Another dataset of minauture-machine operating sounds for anomalous sound detection under domain shift conditions&amp;quot; by Noboru Harada, Daisuke Niizumi, Daiki Takeuchi, Yasunori Ohishi, Masahiro Yasuda, Shoichiro Saito.&lt;/p&gt;
+&lt;p&gt;This paper proposes a new large-scale dataset called “ToyADMOS2” for anomaly detection in machine operating sounds (ADMOS). As did for our previous ToyADMOS dataset, we collected a large number of operating sounds of miniature machines (toys) under normal and anomaly conditions by deliberately damaging them but extended with providing controlled depth of damages in anomaly samples. Since typical application scenarios of ADMOS often require robust performance under domain-shift conditions, the ToyADMOS2 dataset is designed for evaluating systems under such conditions. The dataset is freely available for download at &lt;a href=&#34;https://github.com/nttcslab/ToyADMOS2-dataset&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/nttcslab/ToyADMOS2-dataset&lt;/a&gt; and &lt;a href=&#34;https://doi.org/10.5281/zenodo.4580270&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5281/zenodo.4580270&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
